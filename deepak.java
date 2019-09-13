@@ -13,9 +13,9 @@ satya pochra
 satya hagura
 commandline 1
 commandline2
-<<<<<<< HEAD
+
 command line 3
 
-=======
+
 command line 4
->>>>>>> deepak
+
