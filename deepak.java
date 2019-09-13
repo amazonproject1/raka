@@ -22,3 +22,4 @@ command line 4
 sukuta nana
 stash with pop
 develop for cherry-pick
+hit this for ssh only
