@@ -5,6 +5,7 @@ class deepak
 	psvm (String [])
 	Sop("deepak is a good boy")
 	sop("fetch");
+	sop("pull");
 }
 this line is added by deepak
 common wealth game
