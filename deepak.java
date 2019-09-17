@@ -3,7 +3,8 @@
 class deepak
 {
 	psvm (String [])
-	Sop("deepak is a good boy")		
+	Sop("deepak is a good boy")
+	sop("fetch");
 }
 this line is added by deepak
 common wealth game
